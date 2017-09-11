@@ -1,1 +1,1 @@
-console.log('zalimsin yar console log text');
+console.log('ne kadar da zalim bir erkeke console log text');
